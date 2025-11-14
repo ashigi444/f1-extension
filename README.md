@@ -1,7 +1,7 @@
 # 🏎️ F1 Live Standings
 
 Extension Chrome pour suivre le classement de la Formule 1 en temps réel.
-
+https://chromewebstore.google.com/detail/f1-live-standings/onpncnkpcmfokopeiepicgmkkafoeeee?hl=fr
 ![Version](https://img.shields.io/badge/version-1.0-red)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -18,7 +18,7 @@ Extension Chrome pour suivre le classement de la Formule 1 en temps réel.
 ## 🚀 Installation
 
 ### Depuis Chrome Web Store
-(lien a venir !
+
 
 ### Installation manuelle (développeurs)
 
