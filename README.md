@@ -21,6 +21,7 @@ lien : https://chromewebstore.google.com/detail/f1-live-standings/onpncnkpcmfoko
 
 ### Depuis Chrome Web Store
 
+https://chromewebstore.google.com/detail/f1-live-standings/onpncnkpcmfokopeiepicgmkkafoeeee?hl=fr
 
 ### Installation manuelle (développeurs)
 
