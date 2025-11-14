@@ -1,4 +1,3 @@
-// API Jolpi - fonctionne en HTTPS !
 const API_BASE = 'https://api.jolpi.ca/ergast/f1';
 
 chrome.alarms.create('checkRaceResults', { periodInMinutes: 60 });
